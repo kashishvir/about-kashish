@@ -1,0 +1,122 @@
+.top-container{
+
+  background-color: #cffffe;
+  position: relative;
+  padding-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.mid-container{
+
+  position: absolute;
+  width: 200px;
+  height: 200px;
+}
+.bottom-container{
+  background-color: #cffffe;
+  padding: 50px 0 20px;
+}
+.profile{
+  width: 80%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+
+}
+.copyright{
+  color: #40514E;
+  font-size: 0.75rem;
+  padding-top: 40px;
+}
+.web{
+  height: 130px;
+  float: left;
+  margin-right: 30px;
+}
+.sports{
+  height: 130px;
+  float: right;
+  margin-right: 30px;
+}
+hr{
+  border-color: green;
+  border-style : none;
+    border-width: 10px;
+    border-top-style: dotted;
+    width: 30%;
+}
+
+body{
+  color: #40514E;
+  text-align: center;
+  margin: 0;
+  font-family: fantasy;
+}
+h1{ color: #66BFBF;
+  font-size: 5.625rem;
+  height: auto;
+  margin-top: 50px;
+  line-height: 1;
+}
+a{
+  color: #197163;
+  margin: 20px 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+p{
+  font-size: 2rem;
+  font-weight: normal;
+  margin-left: 100px;
+}
+h2{ color: #66BFBF;
+  font-size: 2.5rem;
+}
+.top_cloud{
+  position: absolute;
+  right: 15rem;
+  top: 6.5rem;
+
+}
+.bottom_cloud{
+  position: absolute;
+  top: 21rem;
+  left: 23.75rem;
+}
+.web-color{
+  color: #e94560;
+}
+.sport-color{
+  color: #e94560;
+}
+.btn {
+  background: #287aad;
+  background-image: -webkit-linear-gradient(top, #287aad, #68b0ab);
+  background-image: -moz-linear-gradient(top, #287aad, #68b0ab);
+  background-image: -ms-linear-gradient(top, #287aad, #68b0ab);
+  background-image: -o-linear-gradient(top, #287aad, #68b0ab);
+  background-image: linear-gradient(to bottom, #287aad, #68b0ab);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #6ebfb5;
+  background-image: -webkit-linear-gradient(top, #6ebfb5, #24a19c);
+  background-image: -moz-linear-gradient(top, #6ebfb5, #24a19c);
+  background-image: -ms-linear-gradient(top, #6ebfb5, #24a19c);
+  background-image: -o-linear-gradient(top, #6ebfb5, #24a19c);
+  background-image: linear-gradient(to bottom, #6ebfb5, #24a19c);
+  text-decoration: none;
+}
